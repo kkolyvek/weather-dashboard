@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.custom-title {
+  text-align: center;
+  color: white;
+}
+
+.custom-list-label {
+  text-align: center;
+}
+
+.custom-UV {
+  color: white;
+  width: 100px;
+  margin: 5px;
+  border-radius: 3px;
+}
